@@ -44,7 +44,7 @@ fact_sales_!.csv
         ↓
     MOVE ✅
         ↓
-Destination Container
+Destination Container (Reporting)
 ```
 
 While:
