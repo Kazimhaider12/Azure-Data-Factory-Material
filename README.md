@@ -411,8 +411,10 @@ Checks whether the current filename contains `!`.
 | `fact_sales_2.csv` |         No ❌ | Ignore |
 
 ---
+# Outcome: 
+<img width="1361" height="787" alt="image" src="https://github.com/user-attachments/assets/ef17cebc-b9ee-4955-9f5b-28a51531a909" />
 
-
+# Simple Source ---> destination 
 
 <img width="1919" height="855" alt="image" src="https://github.com/user-attachments/assets/a56e02df-75aa-4162-906a-3d0bed5ea398" />
 <img width="1686" height="756" alt="image" src="https://github.com/user-attachments/assets/339475fd-9f85-41bc-8265-c9ebaad35a33" />
