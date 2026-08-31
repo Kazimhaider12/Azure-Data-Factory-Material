@@ -1,7 +1,5 @@
 # Azure-Data-Factory
 
-<img width="1694" height="929" alt="ChatGPT Image Aug 25, 2026, 09_17_25 PM" src="https://github.com/user-attachments/assets/29f0468b-0d6b-493a-b40c-ec41555c5b03" />
-
 ## 📌 Project Overview
 
 This project is my **first hands-on Azure Data Factory (ADF) pipeline**.
@@ -21,7 +19,6 @@ This project helped me understand the fundamentals of:
 - Conditional File Processing
 - Data Movement
 - Pipeline Orchestration
-- Data transformation
 
 ---
 
