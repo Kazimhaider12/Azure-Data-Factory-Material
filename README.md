@@ -1,6 +1,6 @@
-# Azure-Data-Factory-Material
+# Azure-Data-Factory
 
-# 🚀 Azure Data Factory — File Movement Pipeline
+<img width="1694" height="929" alt="ChatGPT Image Aug 25, 2026, 09_17_25 PM" src="https://github.com/user-attachments/assets/29f0468b-0d6b-493a-b40c-ec41555c5b03" />
 
 ## 📌 Project Overview
 
