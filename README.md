@@ -21,6 +21,7 @@ This project helped me understand the fundamentals of:
 - Conditional File Processing
 - Data Movement
 - Pipeline Orchestration
+- Data transformation
 
 ---
 
